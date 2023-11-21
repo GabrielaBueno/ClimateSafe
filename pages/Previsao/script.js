@@ -77,5 +77,4 @@ currentWeatherItemsEl.innerHTML = ` <div class="weather-item2">
         }
 })
 weatherForecastEl.innerHTML = otherDayForcast;
-
-}
+}}
