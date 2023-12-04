@@ -156,7 +156,7 @@ span {
 .btn:hover {
     background: var(--main-color);
     color: var(--bg-color);
-    box-shadow:#ff9f0d63 0px 1px 25px;
+    box-shadow:#ff9e0d13 0px 1px 25px;
 }
 
 .btn2 {
