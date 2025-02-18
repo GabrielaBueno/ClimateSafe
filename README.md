@@ -15,3 +15,6 @@
 ## 🛠️ Tecnologias Utilizadas
 - **Visual Studio Code**: Editor de código recomendado para o desenvolvimento do projeto.
 - **Live Server**: Extensão do Visual Studio Code necessária para a execução local do sistema.
+
+## 👥 Autora
+- **Gabriela Dos Reis Bueno**
