@@ -1,7 +1,17 @@
-Este projeto é parte de um sistema maior desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso de Engenharia da Computação pela Universidade Tecnológica Federal do Paraná, campus Cornélio Procópio (UTFPR-CP).
+# ClimateSafe
 
-O ClimateSafe tem como intuito ajudar moradores em áreas de riscos, em especial ao município de São Sebastião - SP, buscando informar de forma rápida e precisa ao usuário as informações como primeiros socorros, contatos, previsão do tempo e locais considerados seguros em caso de evacuação.
+**ClimateSafe** é um projeto desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) no curso de Engenharia da Computação pela Universidade Tecnológica Federal do Paraná, campus Cornélio Procópio (UTFPR-CP). O sistema tem como objetivo auxiliar moradores de áreas de risco, especialmente no município de São Sebastião - SP, fornecendo informações rápidas e precisas sobre primeiros socorros, contatos de emergência, previsão do tempo e locais seguros em caso de evacuação.
 
-Pensando nisso, está sendo disponibilizado os códigos utilizados para a sua elaboração. Vale ressaltar que esse projeto necessita de atualizações futuras e por ser um projeto recente, algumas funcionalidades se encontram inutilizável.
+## 🚀 Funcionalidades
+- **Primeiros socorros**: Acesso rápido a informações essenciais sobre primeiros socorros.
+- **Contatos de emergência**: Dados de contato úteis para situações de risco.
+- **Previsão do tempo**: Informações atualizadas sobre o clima para a área de risco.
+- **Locais seguros**: Indicação de áreas seguras para evacuação em casos de emergência.
 
-Vale ressaltar que para a sua execução recomenda-se a utilização do Visual Studio Code consolidado a extensão Live Server. 
+## ⚠️ Notas Importantes
+- Este projeto está em constante evolução e necessita de **atualizações futuras**.
+- Algumas funcionalidades podem estar **inutilizáveis** por se tratar de um projeto recente.
+
+## 🛠️ Tecnologias Utilizadas
+- **Visual Studio Code**: Editor de código recomendado para o desenvolvimento do projeto.
+- **Live Server**: Extensão do Visual Studio Code necessária para a execução local do sistema.
